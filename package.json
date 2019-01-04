@@ -1,0 +1,22 @@
+{
+  "name": "toy-koa-router",
+  "version": "2.0.0",
+  "description": "just a toy !!!",
+  "main": "router.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "umaruchan"
+  },
+  "license": "MIT",
+  "keywords": [
+    "toy",
+    "koa-router"
+  ],
+  "dependencies": {
+    "koa-compose": "^4.1.0",
+    "methods": "^1.1.2",
+    "path-to-regexp": "^2.4.0"
+  }
+}
