@@ -1,6 +1,6 @@
 {
   "name": "toy-koa-router",
-  "version": "2.0.0",
+  "version": "1.0.3",
   "description": "just a toy !!!",
   "main": "router.js",
   "scripts": {
@@ -14,6 +14,10 @@
     "toy",
     "koa-router"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/huhu2356/toy-koa-router"
+  },
   "dependencies": {
     "koa-compose": "^4.1.0",
     "methods": "^1.1.2",
